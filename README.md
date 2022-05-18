@@ -22,7 +22,7 @@ TypeScript 환경에서의 사용법.
 - state의 Destructure 구조분해 문법이 직관적으로 파악되지않아 적응이 필요했음. 
 - 참조형 데이터의 state를 사용할 때 copy본을 spread 연산자로 생성하기.
 - component간 전송이 되지않으나 부모 자식간만 props 사용하는 문법.
-- 
+
 ## 📚 비고
 하다보니 React가 굉장히 편리하겠다는 생각이 들었다. 
 물론 html, css, js, jquery를 기반으로 각자 배워온 내게는 어떠한 위협감을 느낄만큼
